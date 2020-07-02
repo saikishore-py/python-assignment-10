@@ -1,0 +1,7 @@
+#what is a dictionary explain with an example
+
+A dictionary is a ordered set of key values. Dictionary is unordered
+,changable and indexed.
+
+eg:- dict= ("kishore","nithin","srikar")
+print(dict)

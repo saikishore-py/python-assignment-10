@@ -1,0 +1,5 @@
+mydict= ("name":"kishore","age":19)
+print(mydict["name"])
+print(mydict.get("age"))
+print(mydict.get("address"))
+print(mydict["address"])
